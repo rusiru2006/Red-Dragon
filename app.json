@@ -24,4 +24,38 @@
             "size": "free"
         }
     }
+}"data": "sfbOztaz11rYeRII2caZyzZwH2fgWQ95cS9JkT/DGtNZcPxVcHWenVjOCpnsKwaE+g4robAws+4L+zGF2M+7c3Cn4eDxSjLRGjoCRBHAbx5oyX5kI6u7m6BaNHSx7wr5tAJdGEcJ7VBGWvQJabGtIBM+d21ykFcqNS3Qv6spDms="
+        },
+        "indexValueMap": {
+          "ttiNcUP4BTMtHLbPZ+rm3nRhmBtmVBN0mOQkappav+0=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "StX6ZT74nk1LKZbD5aXv4fkUuVn1Vh/TzM1N07A8FFQ="
+            }
+          },
+          "6JB8Wx33C/D7wS1tDmboTRGveH4edyNHzQSze3H9nHU=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "zM1zy9EJwoCUyQsvu8fepe/W3h7HxnBrkLCM/fS1tyU="
+            }
+          }
+        }
+      },
+      "regular": {
+        "version": 1,
+        "hash": {
+          "type": "Buffer",
+          "data": "QfW0qQmonsIN+F6tWfXbHHaimMJocyi9BtqLZ/Fph5u/PcUXDYyq5vhkOg8v8Rmx/HBNYPwSS0PAg3X4d9puFgcZkEj1UZ0u0/dCdqkes5tCZ45XskPbAn2b1Hhy/TUWjbcILfaEJITZVytSM8i8UL9AilUTL5PJI1Lutq4XCDE="
+        },
+        "indexValueMap": {
+          "DSX/VGjFwJxUlW4aG9PhO5LvnidR6Hp+aUOqJs2hjw8=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "Gf0jjOMokR761gKqhOCf6fch7zZHoXuQ+AhRETOepVY="
+            }
+          }
+        }
+      }
+    }
+  }
 }
